@@ -1,0 +1,11 @@
+body {
+    width: 55%;
+    margin: 0 auto;
+    color: white;
+    font-size: 23px;
+    background-image: url(https://w0.peakpx.com/wallpaper/72/88/HD-wallpaper-stars-space-night-starry-sky.jpg);
+}
+
+.block {
+  padding-top: 100px;  
+}
